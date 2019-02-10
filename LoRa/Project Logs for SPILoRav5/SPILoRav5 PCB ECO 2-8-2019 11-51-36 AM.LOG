@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetLEFT_2 Pin=U?-12
+Added Pin To Net: NetName=NetLEFT_1 Pin=U?-13
+Added Pin To Net: NetName=NetRIGHT_12 Pin=U?-14
+Added Pin To Net: NetName=MISO Pin=RIGHT-10
+Added Pin To Net: NetName=MISO Pin=U?-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=RIGHT-11
+Added Pin To Net: NetName=MOSI Pin=U?-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=RIGHT-9
+Added Pin To Net: NetName=SCK Pin=U?-17
+Added Net: Name=SCK
+Added Room: Name=SPILoRav5
