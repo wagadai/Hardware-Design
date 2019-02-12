@@ -1,8 +1,0 @@
-Added Component: Designator=C1(CN-SMD-0805)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=GND Pin=C1-2
-Added Pin To Net: NetName=NetC1_1 Pin=C1-1
-Added Pin To Net: NetName=NetC1_1 Pin=U?-20
-Added Net: Name=NetC1_1
-Added Member To Class: ClassName=SPILoRav5 Member=Component C1 0.1uF
