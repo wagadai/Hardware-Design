@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+5 Pin=P?-1
+Removed Pin From Net: NetName=GND Pin=P?-3
+Removed Pin From Net: NetName=CS Pin=P?-15
+Removed Pin From Net: NetName=MOSI Pin=P?-16
+Removed Pin From Net: NetName=MISO Pin=P?-17
+Removed Pin From Net: NetName=SCK Pin=P?-18
+Removed Pin From Net: NetName=RST Pin=P?-19
+Added Pin To Net: NetName=+5 Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=MOSI Pin=P?-15
+Added Pin To Net: NetName=CS Pin=P?-16
+Added Pin To Net: NetName=SCK Pin=P?-17
+Added Pin To Net: NetName=MISO Pin=P?-18
+Added Pin To Net: NetName=RST Pin=P?-20
+Added Member To Class: ClassName=Pi3-GPS-Neo6M Member=Component P? Header 12X2
