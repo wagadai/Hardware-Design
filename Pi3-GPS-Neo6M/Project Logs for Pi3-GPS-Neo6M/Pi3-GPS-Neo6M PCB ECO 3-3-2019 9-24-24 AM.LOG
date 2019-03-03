@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PI-3 Pin=R1-2
+Removed Pin From Net: NetName=LORA Pin=R2-2
+Removed Pin From Net: NetName=3G Pin=R3-2
+Removed Pin From Net: NetName=GPS Pin=R4-2
+Added Pin To Net: NetName=GPS Pin=R1-2
+Added Pin To Net: NetName=PI-3 Pin=R2-2
+Added Pin To Net: NetName=LORA Pin=R3-2
+Added Pin To Net: NetName=3G Pin=R4-2
+Added Room: Name=Pi3-GPS-Neo6M
