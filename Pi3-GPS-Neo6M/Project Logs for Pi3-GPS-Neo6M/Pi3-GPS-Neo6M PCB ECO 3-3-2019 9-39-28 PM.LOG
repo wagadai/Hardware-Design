@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=LED
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetLED_1
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetLED_2
+Change Net Name : Old Net Name=NetP1_3 New Net Name=NetLED_3
+Change Net Name : Old Net Name=NetP1_4 New Net Name=NetLED_4
+Added Member To Class: ClassName=Pi3-GPS-Neo6M Member=Component RAK831 RAK831 Header
+Added Room: Name=Pi3-GPS-Neo6M

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MOSI Pin=JP?-3
+Removed Pin From Net: NetName=MISO Pin=JP?-4
+Added Pin To Net: NetName=MISO Pin=JP?-3
+Added Pin To Net: NetName=MOSI Pin=JP?-4
+Added Room: Name=Pi3-GPS-Neo6M

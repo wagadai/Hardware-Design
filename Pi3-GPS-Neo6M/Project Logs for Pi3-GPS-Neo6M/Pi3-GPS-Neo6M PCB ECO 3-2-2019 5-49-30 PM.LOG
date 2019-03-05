@@ -1,0 +1,14 @@
+Change Component Comment : Designator=P? Old Comment=Header 2H New Comment=Cooling Fan
+Change Component Comment : Designator=P? Old Comment=Header 12X2 New Comment=RAK831 Header
+Change Component Designator: OldDesignator=P? NewDesignator=FAN
+Change Component Designator: OldDesignator=P? NewDesignator=RAK831
+Change Component Designator: OldDesignator=RPI? NewDesignator=Pi3
+Added Component: Designator=P?(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetFAN_1
+Added Member To Class: ClassName=Pi3-GPS-Neo6M Member=Component FAN Cooling Fan
+Added Member To Class: ClassName=Pi3-GPS-Neo6M Member=Component RAK831 RAK831 Header
+Added Room: Name=Pi3-GPS-Neo6M

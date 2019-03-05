@@ -1,0 +1,4 @@
+Added Component: Designator=GPS-NEO6M(GPS-NEO6M-UART)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Pi3-GPS-Neo6M Member=Component GPS-NEO6M GPS-NEO6M-UART
+Added Room: Name=Pi3-GPS-Neo6M

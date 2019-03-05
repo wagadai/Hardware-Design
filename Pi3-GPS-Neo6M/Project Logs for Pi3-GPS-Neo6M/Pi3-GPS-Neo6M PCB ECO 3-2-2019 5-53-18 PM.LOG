@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=Pi3-GPS-Neo6M Member=P?
+Added Component: Designator=P1(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=3G Pin=P1-3
+Added Net: Name=3G
+Added Pin To Net: NetName=GPS Pin=GPS-NEO6M-0
+Added Pin To Net: NetName=GPS Pin=P1-4
+Added Net: Name=GPS
+Added Pin To Net: NetName=LORA Pin=P1-2
+Added Net: Name=LORA
+Added Pin To Net: NetName=PI-3 Pin=P1-1
+Added Net: Name=PI-3
+Added Member To Class: ClassName=Pi3-GPS-Neo6M Member=Component P1 LED NOTIFY
