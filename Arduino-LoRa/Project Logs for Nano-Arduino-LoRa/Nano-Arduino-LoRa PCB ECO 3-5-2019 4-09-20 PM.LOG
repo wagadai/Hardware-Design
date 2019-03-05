@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=RX_3 Pin=UART_LORA-3
+Removed Pin From Net: NetName=TX_3 Pin=UART_LORA-4
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+3V3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=TX_5 Pin=MCU-1
+Added Pin To Net: NetName=RX_5 Pin=MCU-2
+Added Pin To Net: NetName=GND Pin=MCU-4
+Added Pin To Net: NetName=DIO0_5 Pin=MCU-12
+Added Pin To Net: NetName=CS_5 Pin=MCU-13
+Added Pin To Net: NetName=MOSI_5 Pin=MCU-14
+Added Pin To Net: NetName=MISO_5 Pin=MCU-15
+Added Pin To Net: NetName=SCK_5 Pin=MCU-16
+Added Pin To Net: NetName=M1_5 Pin=MCU-19
+Added Pin To Net: NetName=M0_5 Pin=MCU-20
+Added Pin To Net: NetName=+5 Pin=MCU-27
+Added Pin To Net: NetName=GND Pin=MCU-29
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+3V3 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-3
+Added Pin To Net: NetName=TX_3 Pin=UART_LORA-3
+Added Pin To Net: NetName=RX_3 Pin=UART_LORA-4
+Added Pin To Net: NetName=VIN Pin=MCU-30
+Added Net: Name=VIN
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component C3 10uF
