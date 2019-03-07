@@ -1,0 +1,4 @@
+Added Component: Designator=*(Arduino nano)
+Add component. Clean all parameters for all variants
+Added Class: Name=Nano-Arduino-LoRa
+Added Room: Name=Nano-Arduino-LoRa

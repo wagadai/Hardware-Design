@@ -1,0 +1,364 @@
+Removed Pin From Net: NetName=+5 Pin=R?-1
+Removed Member From Class: ClassName=Nano-Arduino-LoRa Member=Q?
+Removed Member From Class: ClassName=Nano-Arduino-LoRa Member=R?
+Added Component: Designator=Q1(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=Q10(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=Q11(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=Q12(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=Q1-1
+Added Pin To Net: NetName=+3V3 Pin=Q1-1
+Added Pin To Net: NetName=+3V3 Pin=Q2-1
+Added Pin To Net: NetName=+3V3 Pin=Q2-1
+Added Pin To Net: NetName=+3V3 Pin=Q3-1
+Added Pin To Net: NetName=+3V3 Pin=Q3-1
+Added Pin To Net: NetName=+3V3 Pin=Q4-1
+Added Pin To Net: NetName=+3V3 Pin=Q4-1
+Added Pin To Net: NetName=+3V3 Pin=Q5-1
+Added Pin To Net: NetName=+3V3 Pin=Q5-1
+Added Pin To Net: NetName=+3V3 Pin=Q6-1
+Added Pin To Net: NetName=+3V3 Pin=Q6-1
+Added Pin To Net: NetName=+3V3 Pin=Q7-1
+Added Pin To Net: NetName=+3V3 Pin=Q7-1
+Added Pin To Net: NetName=+3V3 Pin=Q8-1
+Added Pin To Net: NetName=+3V3 Pin=Q8-1
+Added Pin To Net: NetName=+3V3 Pin=Q9-1
+Added Pin To Net: NetName=+3V3 Pin=Q9-1
+Added Pin To Net: NetName=+3V3 Pin=Q10-1
+Added Pin To Net: NetName=+3V3 Pin=Q10-1
+Added Pin To Net: NetName=+3V3 Pin=Q11-1
+Added Pin To Net: NetName=+3V3 Pin=Q11-1
+Added Pin To Net: NetName=+3V3 Pin=Q12-1
+Added Pin To Net: NetName=+3V3 Pin=Q12-1
+Added Pin To Net: NetName=+3V3 Pin=R1-1
+Added Pin To Net: NetName=+3V3 Pin=R2-1
+Added Pin To Net: NetName=+3V3 Pin=R3-1
+Added Pin To Net: NetName=+3V3 Pin=R4-1
+Added Pin To Net: NetName=+3V3 Pin=R5-1
+Added Pin To Net: NetName=+3V3 Pin=R6-1
+Added Pin To Net: NetName=+3V3 Pin=R7-1
+Added Pin To Net: NetName=+3V3 Pin=R8-1
+Added Pin To Net: NetName=+3V3 Pin=R9-1
+Added Pin To Net: NetName=+3V3 Pin=R10-1
+Added Pin To Net: NetName=+3V3 Pin=R11-1
+Added Pin To Net: NetName=+3V3 Pin=R12-1
+Added Pin To Net: NetName=+5 Pin=R13-1
+Added Pin To Net: NetName=+5 Pin=R14-1
+Added Pin To Net: NetName=+5 Pin=R15-1
+Added Pin To Net: NetName=+5 Pin=R16-1
+Added Pin To Net: NetName=+5 Pin=R17-1
+Added Pin To Net: NetName=+5 Pin=R18-1
+Added Pin To Net: NetName=+5 Pin=R19-1
+Added Pin To Net: NetName=+5 Pin=R20-1
+Added Pin To Net: NetName=+5 Pin=R21-1
+Added Pin To Net: NetName=+5 Pin=R22-1
+Added Pin To Net: NetName=+5 Pin=R23-1
+Added Pin To Net: NetName=+5 Pin=R24-1
+Added Pin To Net: NetName=AUX_3 Pin=Q10-3
+Added Pin To Net: NetName=AUX_3 Pin=R21-2
+Added Net: Name=AUX_3
+Added Pin To Net: NetName=AUX_5 Pin=Q10-2
+Added Pin To Net: NetName=AUX_5 Pin=R10-2
+Added Net: Name=AUX_5
+Added Pin To Net: NetName=CS_3 Pin=Q5-3
+Added Pin To Net: NetName=CS_3 Pin=R18-2
+Added Net: Name=CS_3
+Added Pin To Net: NetName=CS_5 Pin=Q5-2
+Added Pin To Net: NetName=CS_5 Pin=R5-2
+Added Net: Name=CS_5
+Added Pin To Net: NetName=DIO0_5 Pin=Q11-2
+Added Pin To Net: NetName=DIO0_5 Pin=R11-2
+Added Net: Name=DIO0_5
+Added Pin To Net: NetName=DIO_3 Pin=Q11-3
+Added Pin To Net: NetName=DIO_3 Pin=R24-2
+Added Net: Name=DIO_3
+Added Pin To Net: NetName=M0_3 Pin=Q8-3
+Added Pin To Net: NetName=M0_3 Pin=R19-2
+Added Net: Name=M0_3
+Added Pin To Net: NetName=M0_5 Pin=Q8-2
+Added Pin To Net: NetName=M0_5 Pin=R8-2
+Added Net: Name=M0_5
+Added Pin To Net: NetName=M1_3 Pin=Q9-3
+Added Pin To Net: NetName=M1_3 Pin=R22-2
+Added Net: Name=M1_3
+Added Pin To Net: NetName=M1_5 Pin=Q9-2
+Added Pin To Net: NetName=M1_5 Pin=R9-2
+Added Net: Name=M1_5
+Added Pin To Net: NetName=MISO_3 Pin=Q2-3
+Added Pin To Net: NetName=MISO_3 Pin=R13-2
+Added Net: Name=MISO_3
+Added Pin To Net: NetName=MISO_5 Pin=Q2-2
+Added Pin To Net: NetName=MISO_5 Pin=R2-2
+Added Net: Name=MISO_5
+Added Pin To Net: NetName=MOSI_3 Pin=Q1-3
+Added Pin To Net: NetName=MOSI_3 Pin=R14-2
+Added Net: Name=MOSI_3
+Added Pin To Net: NetName=MOSI_5 Pin=Q1-2
+Added Pin To Net: NetName=MOSI_5 Pin=R1-2
+Added Net: Name=MOSI_5
+Added Pin To Net: NetName=NetLabel53 Pin=Q12-2
+Added Pin To Net: NetName=NetLabel53 Pin=R12-2
+Added Net: Name=NetLabel53
+Added Pin To Net: NetName=NetLabel65 Pin=Q12-3
+Added Pin To Net: NetName=NetLabel65 Pin=R23-2
+Added Net: Name=NetLabel65
+Added Pin To Net: NetName=RST_3 Pin=Q4-3
+Added Pin To Net: NetName=RST_3 Pin=R15-2
+Added Net: Name=RST_3
+Added Pin To Net: NetName=RST_5 Pin=Q4-2
+Added Pin To Net: NetName=RST_5 Pin=R4-2
+Added Net: Name=RST_5
+Added Pin To Net: NetName=RX_3 Pin=Q7-3
+Added Pin To Net: NetName=RX_3 Pin=R20-2
+Added Net: Name=RX_3
+Added Pin To Net: NetName=RX_5 Pin=Q7-2
+Added Pin To Net: NetName=RX_5 Pin=R7-2
+Added Net: Name=RX_5
+Added Pin To Net: NetName=SCK_3 Pin=Q3-3
+Added Pin To Net: NetName=SCK_3 Pin=R16-2
+Added Net: Name=SCK_3
+Added Pin To Net: NetName=SCK_5 Pin=Q3-2
+Added Pin To Net: NetName=SCK_5 Pin=R3-2
+Added Net: Name=SCK_5
+Added Pin To Net: NetName=TX_3 Pin=Q6-3
+Added Pin To Net: NetName=TX_3 Pin=R17-2
+Added Net: Name=TX_3
+Added Pin To Net: NetName=TX_5 Pin=Q6-2
+Added Pin To Net: NetName=TX_5 Pin=R6-2
+Added Net: Name=TX_5
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q1 BSS138
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q2 BSS138
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q3 BSS138
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q4 BSS138
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q5 BSS138
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q6 BSS138
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q7 BSS138
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q8 BSS138
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q9 BSS138
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q10 BSS138
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q11 BSS138
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q12 BSS138
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R1 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R2 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R3 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R4 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R5 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R6 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R7 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R8 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R9 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R10 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R11 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R12 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R13 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R14 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R15 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R16 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R17 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R18 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R19 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R20 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R21 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R22 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R23 Res
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component R24 Res
+Added Room: Name=Nano-Arduino-LoRa

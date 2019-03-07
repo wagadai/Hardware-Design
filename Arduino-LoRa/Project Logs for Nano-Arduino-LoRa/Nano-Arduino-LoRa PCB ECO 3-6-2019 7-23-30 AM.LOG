@@ -1,0 +1,18 @@
+Added Component: Designator=MCU(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=TX_5 Pin=MCU-1
+Added Pin To Net: NetName=RX_5 Pin=MCU-2
+Added Pin To Net: NetName=GND Pin=MCU-4
+Added Pin To Net: NetName=DIO0_5 Pin=MCU-5
+Added Pin To Net: NetName=RST_5 Pin=MCU-12
+Added Pin To Net: NetName=CS_5 Pin=MCU-13
+Added Pin To Net: NetName=MOSI_5 Pin=MCU-14
+Added Pin To Net: NetName=MISO_5 Pin=MCU-15
+Added Pin To Net: NetName=SCK_5 Pin=MCU-16
+Added Pin To Net: NetName=M1_5 Pin=MCU-19
+Added Pin To Net: NetName=M0_5 Pin=MCU-20
+Added Pin To Net: NetName=+5 Pin=MCU-27
+Added Pin To Net: NetName=GND Pin=MCU-29
+Added Pin To Net: NetName=V_IN Pin=MCU-30
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component MCU Arduino Nano
+Added Room: Name=Nano-Arduino-LoRa

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=AUX_5 Pin=MCU-21
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component MCU Arduino Nano
+Added Room: Name=Nano-Arduino-LoRa

@@ -1,0 +1,7 @@
+Added Component: Designator=Q?(SOT-23-3L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Id"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdss"; Value = "50V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Nano-Arduino-LoRa Member=Component Q? BSS138
+Added Room: Name=Nano-Arduino-LoRa
